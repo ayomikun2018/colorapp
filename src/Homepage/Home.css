@@ -1,0 +1,12 @@
+.navbar{
+    background-color: black;
+    height: 30vh;
+    text-align: center;
+    margin-top: 20px;
+}
+.navbar h1{
+    margin-top: 20px;
+}
+.navbar h2{
+    color:white
+}
